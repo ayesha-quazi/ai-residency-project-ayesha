@@ -1,1 +1,1 @@
-# ai-residency-project-ayesha
+# AI-Residency-Project
